@@ -1,0 +1,27 @@
+{
+  "name": "shineyue-component",
+  "version": "1.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/shineyue-component",
+  "scripts": {
+    "dev": "umi-lib doc dev",
+    "build": "umi-lib build"
+  },
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "umi-library": "^1.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ant-design-pro": "^2.2.1",
+    "antd": "^3.15.0"
+  }
+}
